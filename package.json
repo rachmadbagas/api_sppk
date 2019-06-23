@@ -1,0 +1,22 @@
+{
+  "name": "api_sppk",
+  "version": "1.0.0",
+  "description": "some api for sppk project , kredit,in",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sppk",
+    "node",
+    "MAUT"
+  ],
+  "repository": "https://github.com/rachmadbagas/api_sppk",
+  "author": "jago ketik , Unej , Fasilkom",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mysql2": "^1.6.5",
+    "sequelize": "^5.8.12"
+  }
+}
